@@ -1,9 +1,4 @@
 <?php
-class asroda {
-
-}	
-
-class <?php
   class department {
     $name;
     
