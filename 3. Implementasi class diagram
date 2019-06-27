@@ -1,0 +1,12 @@
+<?php
+  class company {
+    $name;
+    
+    function setCompanyName($name){
+      $this->nama = $name;
+    }
+    function getCompanyName(){
+      return $this->nama;
+    }
+  }
+?>
